@@ -1,10 +1,13 @@
 {
-  "name": "npm-registry-test",
-  "version": "0.0.1",
+  "name": "dudqls816-npm-registry-test",
+  "version": "0.0.3",
   "description": "",
   "author": "",
-  "private": true,
+  "private": false,
   "license": "UNLICENSED",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": "https://github.com/gong-yeongbin/npm-registry-test",
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
