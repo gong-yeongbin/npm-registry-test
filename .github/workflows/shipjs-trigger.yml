@@ -26,4 +26,4 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           NPM_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
-          SLACK_INCOMING_HOOK: ${{ secrets.SLACK_INCOMING_HOOK }}
+#          SLACK_INCOMING_HOOK: ${{ secrets.SLACK_INCOMING_HOOK }}
