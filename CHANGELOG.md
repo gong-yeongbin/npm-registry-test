@@ -1,5 +1,6 @@
 ## [0.0.8](https://github.com/gong-yeongbin/npm-registry-test/compare/v0.0.7...v0.0.8) (2023-11-24)
 
+init release
 
 ### Features
 
